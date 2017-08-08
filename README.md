@@ -1,1 +1,3 @@
-Bingo is a new way
+Bingo is the new way
+
+Version 0.1
